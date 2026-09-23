@@ -2,4 +2,5 @@
 
 Презентация вариантов логотипа, мокапов и типографики для пространства Dasi (Казань).
 
-https://nlapenqo.github.io/dasi-logo-presentation/
+Латиница: https://nlapenqo.github.io/dasi-logo-presentation/
+Кириллица (Даси): https://nlapenqo.github.io/dasi-logo-presentation/ru/
